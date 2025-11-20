@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.filter-box {
+  margin-bottom: 20px;
+}
+
+.filter-box input, .filter-box button {
+  margin-right: 10px;
+  padding: 5px 8px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+th {
+  background-color: #f5f5f5;
+}
+
